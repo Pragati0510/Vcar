@@ -102,15 +102,3 @@ http://localhost:3000
 ### Reservation Page
 
 ![image](https://user-images.githubusercontent.com/41492875/210100077-52ad34b2-dd1c-49d3-abdc-0a3b4a89504e.png)
-
-
-## Contributers
-
-1. [Yousef Kotp](https://github.com/yousefkotp)
-
-2. [Mohamed Farid](https://github.com/MohamedFarid612)
-
-3. [Adham Mohamed](https://github.com/adhammohamed1)
-
-4. [Hossam Elshamy](https://github.com/hossamelshamyy)
-

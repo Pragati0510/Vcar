@@ -1,5 +1,4 @@
 # VaCarTion
-- You can check the live demo of the system [here](https://car-rental-system-2022.herokuapp.com/)
 ## Table of Contents
 - [VaCarTion](#vacartion)
     - [Overview](#overview)

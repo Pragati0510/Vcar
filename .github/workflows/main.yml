@@ -2,7 +2,7 @@ name: CI/CD for Node.js App
 
 on:
   push:
-    branches: [master]
+    branches: [mybranch]
   workflow_dispatch:
 
 permissions:
